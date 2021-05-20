@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SuccessB
 - 👀 I’m interested in learning web development 
 - 🌱 I’m currently learning modern web design with GYMNASIUM online school.
-- 💞️ I’m looking to collaborate on web develpment and designing
+- 💞️ I’m looking to collaborate on web development and designing
 - 📫 How to reach me my email is stringdav@gmail.com
 
 <!---
